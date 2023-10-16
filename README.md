@@ -7,7 +7,10 @@
 
 **Project:** Deep Learning
 
-**Topic:** Python Deep Learning Analysis using Fashion MNIST, Sunspots, and Histopathologic Cancer Detection Dataset
+**Topic:**
+	- **1.** Deep Learning for Fashion Image Classification using CNNs
+ 	- **2.**
+  	- **3.**
 
 **Keywords:** Deep Learning, Python, CNN, RNN, Transfer Learning, Fashion MNIST Dataset, Sunspots Dataset, and Histopathologic Cancer Detection Dataset
 
@@ -25,14 +28,21 @@
 
 
 ## Project Overview
-- **FashionMNIST_CNN:** 
+- **FashionMNIST_CNN:**
+	- This project focuses on the development of a Convolutional Neural Network (CNN) model using the Fashion MNIST dataset.
+	- The Fashion MNIST dataset comprises 70,000 grayscale images of fashion products categorized into 10 classes, making it a benchmark for training and evaluating CNN models.
+	- The CNN model consists of convolutional layers, pooling layers, and an output layer, allowing it to extract relevant features from images and make accurate classifications.
+	- The project aims to leverage deep learning techniques to build a robust image classification system applicable in various domains, including fashion analysis, cyber forensics, and medical imaging.
 - **HistopathologicCancerDetection_CNN:** 
 - **Sunspots_RNN:** 
 
 
 
 ## Motivation
-- **FashionMNIST_CNN:** 
+- **FashionMNIST_CNN:**
+	- CNNs have revolutionized computer vision and image analysis, offering significant applications in diverse fields.
+	- The motivation behind this project lies in the need for accurate image classification systems, which have applications in fashion industry trend analysis, criminal investigations, and medical diagnostics.
+	- Leveraging deep learning techniques can lead to improved accuracy and efficiency in classifying fashion products and other image-based tasks.
 - **HistopathologicCancerDetection_CNN:** 
 - **Sunspots_RNN:** 
 
@@ -40,10 +50,14 @@
 
 ### Aim & Objectives
 - **FashionMNIST_CNN:**
-	- **Aim:** 
+	- **Aim:** The aim of this project is to develop an effective CNN model for fashion image classification using the Fashion MNIST dataset.
 	- **Objectives:** 
-  		- ()
-		- ()
+  		- Preprocess the Fashion MNIST dataset, including data normalization and reshaping.
+		- Build a flexible CNN model architecture with adjustable hyperparameters.
+		- Implement hyperparameter tuning using GridSearchCV to optimize model performance.
+		- Evaluate the best model's accuracy and loss on the test dataset.
+  		- Visualize the model's training history and performance metrics.
+		- Generate a classification report and confusion matrix to assess the model's performance across different classes.
 - **HistopathologicCancerDetection_CNN:**
 	- **Aim:** 
 	- **Objectives:** 
