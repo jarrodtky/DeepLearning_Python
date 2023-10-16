@@ -25,23 +25,36 @@
 
 
 ## Project Overview
-- ()
-- ()
-- ()
+- **FashionMNIST_CNN:** 
+- **HistopathologicCancerDetection_CNN:** 
+- **Sunspots_RNN:** 
 
 
 
 ## Motivation
-- ()
+- **FashionMNIST_CNN:** 
+- **HistopathologicCancerDetection_CNN:** 
+- **Sunspots_RNN:** 
 
 
 
 ### Aim & Objectives
-- **Aim:** 
-	- ()
-- **Objectives:** 
-  	- ()
-	- ()
+- **FashionMNIST_CNN:**
+	- **Aim:** 
+	- **Objectives:** 
+  		- ()
+		- ()
+- **HistopathologicCancerDetection_CNN:**
+	- **Aim:** 
+	- **Objectives:** 
+  		- ()
+		- ()
+- **Sunspots_RNN:**
+	- **Aim:** 
+	- **Objectives:** 
+  		- ()
+		- ()
+
 
 
 
