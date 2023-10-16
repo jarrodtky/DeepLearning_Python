@@ -77,6 +77,6 @@
 
 
 ## Credits
-- Took inspiration from [()](link)
+- Took inspiration from YouTube
 
 
